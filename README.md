@@ -6,7 +6,7 @@ Greetings! 👋 I'm Ali Amini
 
 💞️ I'm eager to collaborate on ASP.NET Core projects.
 
-📫 Feel free to reach out to me at: aliamini.inbox@gmail.com .
+📫 Feel free to reach out to me at: aliamini.inbox@gmail.com.
 
 As a dedicated software developer, I'm exploring the fascinating world of Artificial Intelligence while honing my Python skills. At the same time, I'm enthusiastic about applying my programming principles through collaboration on ASP.NET Core projects.
 
